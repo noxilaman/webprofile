@@ -1,0 +1,64 @@
+# Parinya Kornpitak — IT Manager · Software Engineer · Tech Lead
+
+## Who I am
+
+Parinya Kornpitak is an IT Manager, Software Engineer, and Tech Lead based in Chiang Mai, Thailand, with 20+ years of hands-on experience building production systems — from the codebase to the factory floor.
+
+- **Current role:** IT Manager & Software Engineer at Lanna Agro Industry Co., Ltd. (2017–present)
+- **Education:** MSc Computer Science, Chiang Mai University
+- **Email:** pong.cpe@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/parinya-kornpitak-pong
+- **GitHub:** https://github.com/noxilaman/
+- **Website:** https://www.noxilsoft.com/
+
+## Summary
+
+Over 20 years in IT with deep expertise in PHP, Java, Node.js, and C#/.NET, plus system and database design. Creates technical design solutions, resolves critical issues, and leads projects end to end. Currently IT Manager at an agriculture & food-processing company, using technology to streamline operations and lift efficiency across every department.
+
+## Core Skills
+
+- **Leadership:** Team leadership, project & budget management, software architecture, mentoring, IT infrastructure, network & security
+- **Programming:** C#/.NET, Java, Python, Node.js, PHP, ReactJS, SQL
+- **Databases & Tools:** MS SQL Server, PostgreSQL, MongoDB, Oracle, Laravel, Angular, ASP.NET, Git, Jenkins, Grafana
+
+## Work Experience
+
+### IT Manager & Software Engineer — Lanna Agro Industry Co., Ltd. (2017–Present)
+Chiang Mai, Thailand
+- Leads IT for an agriculture & food-processing company; develops and maintains software across every department
+- Oversees design, implementation, and testing; manages IT infrastructure, network, and security
+- Evaluates emerging technologies and presents findings to executives; delivers internal IT training
+
+### Technical Specialist — Aware Co., Ltd. (2004–2017)
+Chiang Mai, Thailand
+- Progressed from Software Engineer to Senior Engineer to Technical Specialist over 13 years
+- Led design, implementation, and testing; managed resources, timelines, and budgets
+- Mentored engineers, reviewed test cases, and owned deployment planning
+
+## Key Projects
+
+- **LACO RTE Dashboard** — Real-time shop-floor dashboard wired to PLCs via RS485 and Raspberry Pi. Result: +20% production gain.
+- **AE Contract Farming** — End-to-end contract-farming system integrating Google Maps API and SAP. Full supply-chain traceability.
+- **FT Form** — Line-manufacture management with forecasting and real-time reports. Reduced staffing by 4–5 per line.
+- **LACO Auto Temp Alert** — IoT temperature alerting over RS485/PLC with Email & LINE notifications.
+- **Carrot Rewards** — iOS & Android loyalty rewards app for Rabbit card users (consumer-scale launch).
+- **PMI-GAP** — Good Agricultural Practices tablet/web platform for Philip Morris International (international rollout).
+- **AMIS** — Agriculture management information system for the tobacco industry in African markets.
+
+## Certifications
+
+- AWS Certified Cloud Practitioner (2023)
+- Microsoft Azure Fundamentals AZ-900 (2023)
+- Microsoft AI Fundamentals AI-900 (2023)
+- MCAD — Microsoft Certified Application Developer (2006)
+- Java Programmer Certification, Sun/Oracle (2005)
+
+## Side Work & Consulting
+
+- **Guest Lecturer** — Agile methodology at Chiang Mai University and Far Eastern University; Master's thesis defense committee member at CMU Engineering
+- **Differential Asia** — Software engineer and innovation consultant; built Customer Satisfaction Index dashboards
+- **Vernity / REXX Platform** — Technical specialist on a medical-education platform (2021–present)
+
+## Availability
+
+Open to IT leadership and Tech Lead roles. Based in Chiang Mai, Thailand. Open to relocation.
